@@ -1,9 +1,9 @@
 # Niketh's First CS193 Homework
 
 Things I like about CS 193:
-'''- No Tests
-'''- I have friends in the class
-'''- Learning about Terminal
+- No Tests
+- I have friends in the class
+- Learning about Terminal
 
 
 
